@@ -1,0 +1,3 @@
+bluemooninternationalc.com {
+reverse_proxy /US* nextjs:3000
+}
