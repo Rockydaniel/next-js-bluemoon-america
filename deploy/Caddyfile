@@ -1,3 +1,5 @@
-bluemooninternationalc.com {
-reverse_proxy /US* nextjs:3000
+# http://YOUR_VM_EXTERNAL_IP 
+http://23.236.59.69 {
+  reverse_proxy nextjs:3000
 }
+
